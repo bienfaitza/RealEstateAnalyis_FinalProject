@@ -1,4 +1,4 @@
-# Real Estate Analysis
+# Real Estate Analysis.
 
 We are going to be using data from 2021 Ontario Real Estate sold house listings.  We want to answer questions whether the sold listings could predict future house prices based on the house's features (number of washrooms, bedrooms, etc), location.  
 
