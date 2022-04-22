@@ -4,7 +4,7 @@ We are going to be using data from 2021 Ontario Real Estate sold house listings.
 
  
 ### Overview
-Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
+Our chosen project examines house prices in the Greater Ontario Area in the year 2021.
 
  
 ## Data
